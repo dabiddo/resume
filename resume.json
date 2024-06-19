@@ -1,0 +1,207 @@
+{
+    "meta": {
+        "theme": "elegant"
+    },
+    "basics": {
+        "name": "David Torres",
+        "label": "Senior Backend Developer",
+        "image": "https://avatars.githubusercontent.com/u/1661618?v=4",
+        "summary": "Sr. Software Developer, I have experience in creating API for client-facing products as well as planning of system infrastructure.",
+        "website": "https://dabiddo.net",
+        "location": {
+            "city": "Tijuana",
+            "countryCode": "MX"
+        },
+        "profiles": [
+            {
+                "network": "gitconnected",
+                "username": "dabiddo",
+                "url": "https://gitconnected.com/dabiddo"
+            },
+            {
+                "network": "GitHub",
+                "username": "dabiddo",
+                "url": "https://github.com/dabiddo"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "dabiddo",
+                "url": "https://www.linkedin.com/in/dabiddo/"
+            },
+            {
+                "network": "Twitter",
+                "username": "DabiddoKun",
+                "url": "https://twitter.com/DabiddoKun"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Framework Science",
+            "position": "Sr. Developer",
+            "url": "https://www.fwscience.us",
+            "startDate": "2017-09-01",
+            "summary": "Outsourcing development company. As lead developer, interview new clients to help hire the best developers that fit their needs, as well as know their onboarding process to make it easier for new hires to start their development tasks as soon as possible.\n\nAs Sr. Software Developer, I help with the planning and development of client products for quicker deployment of their MVPs, working mostly on Backend, and business logic, and integrating 3rd party APIs.\n\nI’ve been in different projects:\n* IOT backend system: Maintaining the CRM and developing new features for a BLE API to deliver Ads to mobile phones.\n* Sport tracking system: Migrated the current API from Ruby to Laravel, and improved the tracking algorithm and interaction for 3rd party APIs.\n* QA engineer: For a health app to help diagnose early brain deterioration, making sure the acceptance criteria was met, and helped with the Spanish translations.\n* Full Stack Developer: For a Fraud Detection and Alert system, to detect possible fraud on a monitored Address and Alert Real Estate Agencies.\n\nFramework Science Teamstation A.I Platform: This is an internal product that helps company customers know of our hiring process and gives transparency on how the technical evaluations are made to select future company employees.",
+            "highlights": [
+                "As part of the Teamstation A.I platform, I was in charge of maintaining the API as well as developing new features, from requirements to delivery as I was also in charge of deployments and server/database maintenance."
+            ],
+            "isCurrentRole": true
+        },
+        {
+            "name": "First Kontact / Jelp App",
+            "position": "Sr. Developer",
+            "url": "https://jelp.io",
+            "startDate": "2015-01-01",
+            "endDate": "2017-08-01",
+            "summary": "First Kontact is a regional call center that provides technical support to different companies. There I maintained their in-house CRM built with Adobe Flex, and created scripts to automate the generation of reports for different clients and different internal branches.\n\nJelp App: Is a startup born from the call center. We started the development of an internal chat application that grew into a full SaaS for tracking delivery of products. We used Laravel as our main development framework for the API that is used by a large number of mobiles and web apps.",
+            "highlights": [
+                "Helped design Jelp App from scratch, having the initial role of Sr. Developer and moved to DevOps, in charge of infrastructure and deployments."
+            ]
+        },
+        {
+            "name": "Sonata Services",
+            "position": "Developer",
+            "startDate": "2014-07-01",
+            "endDate": "2014-12-01",
+            "summary": "Outsourcing development company. As part of a two-person team, I helped the Sr. developer fix bugs as well as planning new modules for the web application, using Laravel as the main framework. Working with the same client, I configured and set up their WordPress site using one of the themes that the client liked and bought."
+        },
+        {
+            "name": "First Kontact",
+            "position": "Developer",
+            "startDate": "2012-04-01",
+            "endDate": "2014-07-01",
+            "summary": "Call Center services. In my first time there, I was put in charge of helping the Sr. Developer maintain their in-house built CRM. I designed and created reports for the Workforce department using PHP, these reports helped find markers for tracking call time and improved their business rules."
+        },
+        {
+            "name": "BajaDev",
+            "position": "Mid Level Developer",
+            "startDate": "2012-11-01",
+            "endDate": "2012-12-01",
+            "summary": "Under a 1-month contract, I was sent to a TV manufacturer as part of the outsourcing team. There, I created a mini-application using C# that automated the retrieval and printing of code orders."
+        },
+        {
+            "name": "Sarab",
+            "position": "IT, Mid Level Developer",
+            "startDate": "2012-07-01",
+            "endDate": "2012-11-01",
+            "summary": "This was a small import and distribution company. As their only IT, I maintained their internal network. Using Google Cloud Print, I eliminated their hassle of sending files to a single person's email that was in charge of printing. I started the development of an API using ASP.NET, and also developed the Android mobile client using PhoneGap.",
+            "highlights": [
+                "Created an MVP for an API with the purpose of controlling the internal inventory and the different distribution channels."
+            ]
+        },
+        {
+            "name": "Telisimo",
+            "position": "Tech Support",
+            "startDate": "2010-07-01",
+            "endDate": "2012-07-01",
+            "summary": "Call Center services. As part of the IT team, I was in charge of giving tech support to the different areas of the company, and helped in the networking of image deployment for their computers.",
+            "highlights": [
+                "Created scripts for unattended installation of the different software needed for their various campaigns, this helped reduce the time spent in the deployment of the software."
+            ]
+        },
+        {
+            "name": "Xtrategics",
+            "position": "Jr. Developer",
+            "startDate": "2009-01-01",
+            "endDate": "2010-01-01",
+            "summary": "Outsourcing development. As part of a 3-man team, we built a system that centralized patient information for a dental clinic, this eliminated the constant trips to the different branches to collect patient data, and automated the collection of insurance.",
+            "highlights": [
+                "The system helped optimize the patient appointments, and have a full detail of dental history."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Instituto Tecnologico de Tijuana",
+            "url": "https://tijuana.tecnm.mx/",
+            "area": "Computer Engineering",
+            "studyType": "Bachelor's Degree",
+            "startDate": "2004-01-01",
+            "endDate": "2009-12-01",
+            "score": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "Bento Bites",
+            "publisher": "",
+            "releaseDate": "2024-01-01",
+            "url": "https://bentobites.beehiiv.com",
+            "summary": "This is my newsletter where I publish weekly posts for my own Japanese study progress."
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP",
+            "level": "Advanced",
+            "keywords": [
+                "Laravel",
+                "php"
+            ]
+        },
+        {
+            "name": "C#",
+            "level": "Intermediate",
+            "keywords": []
+        },
+        {
+            "name": "Javascript",
+            "level": "Intermediate",
+            "keywords": [
+                "Javascript",
+                "Jquery",
+                "nodeJs",
+                "VueJs"
+            ]
+        },
+        {
+            "name": "AWS",
+            "level": "Intermediate",
+            "keywords": [
+                "EC2",
+                "S3",
+                "RDS"
+            ]
+        },
+        {
+            "name": "Linux",
+            "level": "Intermediate",
+            "keywords": [
+                "ubuntu"
+            ]
+        },
+        {
+            "name": "SQL",
+            "level": "Intermediate",
+            "keywords": [
+                "MySQL",
+                "PostgreSQL"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Professional proficiency"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Basic proficiency"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hiking"
+        },
+        {
+            "name": "Guitar"
+        },
+        {
+            "name": "Japanese"
+        }
+    ]
+}

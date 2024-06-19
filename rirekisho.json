@@ -1,0 +1,157 @@
+{
+    "personalInfo": {
+        "kanjiName": "トーレス デビッド",
+        "furiganaName": "とーれす でびっど",
+        "birthDate": "1989-06-15",
+        "gender": "Male",
+        "address": "Mexico",
+        "phone": "123-456-7890",
+        "email": "david@example.com",
+        "photo": "https://avatars.githubusercontent.com/u/1661618?v=4",
+        "maritalStatus": "Single",
+        "nationality": "Mexican"
+    },
+    "education": [
+        {
+            "institution": "Instituto Tecnologico de Tijuana",
+            "startDate": "2004-01-01",
+            "endDate": "2009-12-01",
+            "major": "Computer Engineering",
+            "degree": "Bachelor's"
+        }
+    ],
+    "workExperience": [
+        {
+            "company": "Framework Science",
+            "position": "Sr. Developer",
+            "startDate": "2017-09-01",
+            "endDate": "",
+            "summary": "Outsourcing development company.\n As lead developer, interview new clients to help hire the best developers\nthat fit their needs, as well as know their onboarding process to make it\neasier for new hires to start their development task as soon as possible.\n\n*As Sr. Software Developer,:\nI help with the planning and development of\nclient products for quicker deployment of their MVPs, working mostly on\nBackend, and business logic, and integrating 3rd party APIs.\n\nI’ve been in different projects:\n* IOT backend system,:\nMaintaining the CRM and developing new features\nfor a BLE API to deliver Ads to mobile phones.\n\n* Sport tracking system:\n Migrated the current API from ruby to Laravel, and\nimproved the tracking algorithm and interaction for 3rd party APIs.\n\n* QA engineer:\nFor a health app to help diagnose early brain deterioration,\nmaking sure the acceptance criteria was met, and helped with the Spanish\ntranslations.\n\n* Full Stack Developer:\nFor a Fraud Detection and Alert system, to detect\npossible fraud on a monitored Address and Alert Real Estate Agencies.\n\nFramework Science Teamstation A.I Platform\nThis is an internal product that helps company customers know of our hiring process and gives transparency on how the technical evaluations are made to select future company employees.",
+            "highlights": [
+                "As part of the Teamstation A.I platform, I was in charge of maintaining the API as well as develop new features, from requirements to delivery as I was also in charge of deployments and server / database maintainance"
+            ]
+        },
+        {
+            "company": "First Kontact / Jelp App",
+            "position": "Sr. Developer",
+            "startDate": "2015-01-01",
+            "endDate": "2017-08-01",
+            "summary": "First Kontact \nIs a regional call center that provides technical support to\ndifferent companies. \nThere I maintained their in-house CRM built with\nadobe flex, and created scripts to automate the generation of reports for\ndifferent clients and different internal branches.\n\nJelp App:\nIs a startup born from the call center. \nWe started the development of an internal chat application that grew into a full SaaS for\ntracking delivery of products. \nWe used Laravel as our main development framework for the API that is used by a large number of mobiles and web apps.",
+            "highlights": [
+                "Help design Jelp App from scratch, having the initial role of Sr. Developer and moved to DevOps, in charge of infrastructure and deployments."
+            ]
+        },
+        {
+            "company": "Sonata Services",
+            "position": "Developer",
+            "startDate": "2014-07-01",
+            "endDate": "2014-12-01",
+            "summary": "Outsourcing development company\nAs part of a two-person team, I helped the Sr. developer fixing bugs as well\nas planning new modules for the web application, using Laravel as the\nmain framework.\nWorking with the same client, I configured and set up their WordPress site\nusing one of the themes that the client liked and bought."
+        },
+        {
+            "company": "First Kontact",
+            "position": "Developer",
+            "startDate": "2012-04-01",
+            "endDate": "2014-07-01",
+            "summary": "Call Center services, In my first time there I was put in charge of helping\nthe Sr. Developer maintain their in house build CRM, I design and created\nreports for the Workforce department using PHP, these reports helped\nfind markers for tracking call time and improved their business rules."
+        },
+        {
+            "company": "BajaDev",
+            "position": "Mid Level Developer",
+            "startDate": "2012-11-01",
+            "endDate": "2012-12-01",
+            "summary": "Under a 1-month contract, I was sent to a TV manufacturer as part of the\noutsourcing team, there I created a mini application using C# that\nautomated the retrieval and printing of code orders."
+        },
+        {
+            "company": "Sarab",
+            "position": "IT, Mid Level Developer",
+            "startDate": "2012-07-01",
+            "endDate": "2012-11-01",
+            "summary": "This was a small import and distribution company, as their only IT, I\nmaintained their internal network, using google cloud print I eliminated\ntheir hassle of sending files to a single person email that was in charge of\nprinting.\nI started the development of an API using ASP.NET, and also developed\nthe android mobile client using Phone Gap.",
+            "highlights": [
+                "Created an MVP for an API with the purpose of controlling the internal inventory and the different distribution channels."
+            ]
+        },
+        {
+            "company": "Telisimo",
+            "position": "Tech Support",
+            "startDate": "2010-07-01",
+            "endDate": "2012-07-01",
+            "summary": "Call Center services, as part of the IT team, I was in charge of giving tech\nsupport to the different areas of the company, and help in the networking\nof image deployment for their computers.",
+            "highlights": [
+                "Created scripts for unattended installation of the different software\nneeded for their various campaigns, this helped reduce the time spent in\nthe deployment of the software."
+            ]
+        },
+        {
+            "company": "Xtrategics",
+            "position": "Jr. Developer",
+            "startDate": "2009-01-01",
+            "endDate": "2010-01-01",
+            "summary": "Outsourcing development, as part of a 3-man team, we built a system that\ncentralized patient information for a dental clinic, this eliminated the\nconstant trips to the different branches to collect patient data, and\nautomated the collection of insurance.",
+            "highlights": [
+                "The system helped optimize the patient appointments, and have a full detail of dental history."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP",
+            "level": "Advanced"
+        },
+        {
+            "name": "C#",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Javascript",
+            "level": "Intermediate"
+        },
+        {
+            "name": "AWS",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Linux",
+            "level": "Intermediate"
+        },
+        {
+            "name": "SQL",
+            "level": "Intermediate"
+        },
+        {
+            "name": "Laravel",
+            "level": "Advanced"
+        },
+        {
+            "name": "NodeJs",
+            "level": "Intermediate"
+        }
+    ],
+    "licensesAndCertifications": [],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Basic"
+        }
+    ],
+    "hobbiesAndInterests": [
+        {
+            "name": "Development"
+        },
+        {
+            "name": "Japan"
+        },
+        {
+            "name": "Dinosaurs"
+        }
+    ],
+    "references": []
+}
