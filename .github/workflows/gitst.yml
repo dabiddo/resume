@@ -1,0 +1,24 @@
+name: Update Resume and Rirekisho Gists
+
+on: push
+
+jobs:
+  update-gists:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Update Resume Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: d27f85f042c0a2c5b3cb2bd2f94a38a6  # Gist ID for resume.json
+        file_path: resume.json
+
+    - name: Update Rirekisho Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.TOKEN }}
+        gist_id: 0a297f7da193f46ab8e82e5d7bd42cbc  # Replace with actual Gist ID for rirekisho.json
+        file_path: rirekisho.json
